@@ -1,9 +1,9 @@
 [submodule "bgfx"]
 	path = bgfx
-	url = https://github.com/bkaradzic/bgfx.git
+	url = git@github.com:nullorigin/bgfx.git
 [submodule "bx"]
 	path = bx
-	url = https://github.com/bkaradzic/bx.git
+	url = git@github.com:nullorigin/bx.git
 [submodule "bimg"]
 	path = bimg
-	url = https://github.com/bkaradzic/bimg.git
+	url = git@github.com:nullorigin/bimg.git
